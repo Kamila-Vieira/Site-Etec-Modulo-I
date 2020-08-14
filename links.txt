@@ -1,0 +1,10 @@
+Biblioteca:
+https://cdnjs.com/libraries
+
+Framework css w3:
+https://www.w3schools.com/w3css/4/w3.css
+
+Biblioteca de icones:
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css
+classe dos icones:
+https://fontawesome.com/icons?from=io
